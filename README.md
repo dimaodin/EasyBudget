@@ -15,7 +15,8 @@ SOON
 ## Installation
 
 1. Clone this repo.
-2. Enjoy.
+2. Install the needed dependencies.
+3. Enjoy.
 
 
 ##### Love, Dima Odintsov
