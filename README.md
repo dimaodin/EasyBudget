@@ -14,8 +14,9 @@ SOON
 ## Installation
 At the root of the project run
 ```
-$> flutter install aka the needed dependencies.
+$> flutter install
 ```
+>  aka the needed dependencies.
 
 ## Commands
 To Run the project
