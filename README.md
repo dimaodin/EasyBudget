@@ -1,7 +1,7 @@
 # Easy Budget
 
 ![badge1](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![badge2](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-> Front-end APP for an easy way to manage your personal budget, developed in Flutter.
+> Front-end mobile app for an easy way to manage your personal budget, developed in Flutter.
 
 ## My Goal
 
@@ -12,7 +12,7 @@ At the root of the project run
 ```
 $> flutter install
 ```
->  aka the needed dependencies.
+>  Aka the needed dependencies.
 
 ## Commands
 To Run the project
